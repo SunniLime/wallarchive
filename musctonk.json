@@ -4,5 +4,20 @@
   "artist": "musctonk",
   "author": "",
   "cover": "https://cdn.imgchest.com/files/cfdce495f1ba.webp",
-  "chapters": {}
+  "chapters": {
+    "02": {
+      "title": "Marin Comic",
+      "last_updated": "1793154339",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9rydg3d2dyk"
+      }
+    },
+    "01": {
+      "title": "The Arts!",
+      "last_updated": "1793154367",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qb4zglbpgyj"
+      }
+    }
+  }
 }
