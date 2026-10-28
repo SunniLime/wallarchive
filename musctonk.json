@@ -6,17 +6,31 @@
   "cover": "https://cdn.imgchest.com/files/cfdce495f1ba.webp",
   "chapters": {
     "02": {
-      "title": "Marin Comic",
-      "last_updated": "1793154339",
+      "title": "The Sequence",
+      "last_updated": "1793154907",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/9rydg3d2dyk"
+        "": "/proxy/api/imgchest/chapter/6eyrq3bwe7p"
       }
     },
     "01": {
       "title": "The Arts!",
-      "last_updated": "1793154367",
+      "last_updated": "1793154828",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qb4zglbpgyj"
+        "": "/proxy/api/imgchest/chapter/wl7lnl88p4x"
+      }
+    },
+    "04": {
+      "title": "Wii Fit Comic",
+      "last_updated": "1793154866",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4npqadzyn"
+      }
+    },
+    "03": {
+      "title": "Marin Comic",
+      "last_updated": "1793154873",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7o2dkrd4p"
       }
     }
   }
