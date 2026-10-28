@@ -340,6 +340,34 @@
       "groups": {
         "": "/proxy/api/imgchest/chapter/a846eqvo2yx"
       }
+    },
+    "20": {
+      "title": "Tomo Comic",
+      "last_updated": "1793188743",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyv3az6978"
+      }
+    },
+    "45": {
+      "title": "Barghest Comic",
+      "last_updated": "1793188806",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqjegqo72"
+      }
+    },
+    "47": {
+      "title": "Lily Comic 2",
+      "last_updated": "1793188817",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqjegqn72"
+      }
+    },
+    "54": {
+      "title": "Nicole & Clio Comic",
+      "last_updated": "1793188870",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/a846ezrgoyx"
+      }
     }
   }
 }
